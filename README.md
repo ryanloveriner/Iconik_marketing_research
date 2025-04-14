@@ -23,4 +23,4 @@ You can find the code I wrote for each of the report's visualizations and their 
 
 #### [Proportion](https://github.com/ryanloveriner/Iconik_marketing_research/blob/main/local_shop_proportions.py) and [Proportion Data](https://github.com/ryanloveriner/Iconik_marketing_research/blob/main/Local%20Ownership%20Proportion.csv)
 
-#### [Map]() and [Map Data]()
+#### [Map](https://github.com/ryanloveriner/Iconik_marketing_research/blob/main/us_infographic_target_states.py) and [Map Data](https://github.com/ryanloveriner/Iconik_marketing_research/blob/main/usmap_for_infographics.json)
