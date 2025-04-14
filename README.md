@@ -11,9 +11,16 @@ Visualizations were then produced with Python using matplotlib, pandas, numpy, a
 ## Report
 
 You can find the final report in pdf form here:
-[Iconik Coffee Roasters Target States for Online Sales](https://github.com/ryanloveriner/Iconik_marketing_research/blob/main/Iconik%20Online%20Market%20Research%20Report%20.pdf)
+### [Iconik Coffee Roasters Target States for Online Sales](https://github.com/ryanloveriner/Iconik_marketing_research/blob/main/Iconik%20Online%20Market%20Research%20Report%20.pdf)
 
 ## Code and Data
 
-You can find the code I wrote and its requisite data here.
+You can find the code I wrote for the report's visualizations and its requisite data here:
 
+#### [Price]() and [Price Data]()
+
+#### [Density]() and [Density Data]()
+
+#### [Proportion]() and [Proportion Data]()
+
+#### [Map]() and [Map Data]()
