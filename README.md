@@ -21,6 +21,6 @@ You can find the code I wrote for each of the report's visualizations and their 
 
 #### [Density](https://github.com/ryanloveriner/Iconik_marketing_research/blob/main/coffee_shop_density.py) and [Density Data](https://github.com/ryanloveriner/Iconik_marketing_research/blob/main/Capita%20per%20shop%20data.csv)
 
-#### [Proportion]() and [Proportion Data]()
+#### [Proportion](https://github.com/ryanloveriner/Iconik_marketing_research/blob/main/local_shop_proportions.py) and [Proportion Data](https://github.com/ryanloveriner/Iconik_marketing_research/blob/main/Local%20Ownership%20Proportion.csv)
 
 #### [Map]() and [Map Data]()
