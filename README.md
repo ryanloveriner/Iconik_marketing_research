@@ -15,7 +15,7 @@ You can find the final report in pdf form here:
 
 ## Code and Data
 
-You can find the code I wrote for the report's visualizations and its requisite data here:
+You can find the code I wrote for each of the report's visualizations and their respective data here:
 
 #### [Price]() and [Price Data]()
 
