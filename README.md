@@ -15,7 +15,7 @@ You can find the final report in pdf form here:
 
 ## Code and Data
 
-You can find the code I wrote for each of the report's visualizations and their respective data here:
+You can find the code I wrote for each of the report's visualizations and their respective data here. Just make sure to copy the data file as path and insert where indicated in the Python file!
 
 #### [Price](https://github.com/ryanloveriner/Iconik_marketing_research/blob/main/drink_price_averages.py) and [Price Data](https://github.com/ryanloveriner/Iconik_marketing_research/blob/main/Top_ten_coffee_drinking_states.csv)
 
