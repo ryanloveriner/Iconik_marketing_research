@@ -11,7 +11,7 @@ import pandas as pd
 import matplotlib.patches as mpatches
 import textwrap
 
-local_owner_proportions_data = pd.read_csv(r"C:\Users\ryanc\OneDrive\Documents\Work Stuff\Production Trends\Local Ownership Proportion.csv")
+local_owner_proportions_data = pd.read_csv(r*****INSERT FILE AS PATH HERE!!!*****)
 
 color1 = 'dimgray'
 color2 = 'slateblue'
