@@ -11,7 +11,7 @@ import pandas as pd
 #import matplotlib.ticker as ticker
 import matplotlib.patches as mpatches
 
-shop_density_data = pd.read_csv(r"C:\Users\ryanc\OneDrive\Documents\Work Stuff\Production Trends\Capita per shop data.csv")
+shop_density_data = pd.read_csv(r*****INSERT FILE AS PATH HERE!!!*****)
 
 plt.figure(figsize=(10,5.6))
 plt.hlines(y=shop_density_data['State'], xmin=2000, xmax=shop_density_data['Capita per Coffee Shop'], 
