@@ -17,9 +17,9 @@ You can find the final report in pdf form here:
 
 You can find the code I wrote for each of the report's visualizations and their respective data here:
 
-#### [Price]() and [Price Data]()
+#### [Price](https://github.com/ryanloveriner/Iconik_marketing_research/blob/main/drink_price_averages.py) and [Price Data](https://github.com/ryanloveriner/Iconik_marketing_research/blob/main/Top_ten_coffee_drinking_states.csv)
 
-#### [Density]() and [Density Data]()
+#### [Density](https://github.com/ryanloveriner/Iconik_marketing_research/blob/main/coffee_shop_density.py) and [Density Data](https://github.com/ryanloveriner/Iconik_marketing_research/blob/main/Capita%20per%20shop%20data.csv)
 
 #### [Proportion]() and [Proportion Data]()
 
