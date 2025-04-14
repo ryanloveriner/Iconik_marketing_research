@@ -12,7 +12,7 @@ import textwrap
 
 # Load US states shapefile (GeoJSON or Shapefile)
 # You can download a US states GeoJSON from a trusted source like https://eric.clst.org/tech/usgeojson/
-us_map = gpd.read_file(r"C:\Users\ryanc\OneDrive\Documents\Work Stuff\Production Trends\usmap_for_infographics.json")
+us_map = gpd.read_file(r*****INSERT FILE AS PATH HERE!!!*****)
 unwanted = ["Puerto Rico", "District of Columbia", "Hawaii", "Alaska"]
 us_map = us_map[~us_map['NAME'].isin(unwanted)]
 
