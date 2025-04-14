@@ -10,7 +10,7 @@ import numpy as np
 import matplotlib.ticker as ticker
 import textwrap
 
-ten_states_data = pd.read_csv("C:/Users/ryanc/OneDrive/Documents/Work Stuff/Production Trends/Top_ten_coffee_drinking_states.csv")
+ten_states_data = pd.read_csv(r*****INSERT FILE AS PATH HERE!!!*****)
 
 plt.figure(figsize=(10, 5.6))                                                        
 ten_states_data.plot(kind='bar', x='State', y=['Brewed Coffee', 'Cold Brew',    #Bar chart of average beverage prices
