@@ -2,7 +2,7 @@
 
 ## Concept
 
-This repo contains a market research report I produced for Iconik Coffee Roasters in my capacity as Head Roaster and Curve Analyst. Its purpose is to identify likely target states for an online advertising campaign.
+This is a market research report I produced for Iconik Coffee Roasters in my capacity as Head Roaster and Curve Analyst. Its purpose is to identify likely target states for an online advertising campaign.
 
 Data was collected primarily through ChatGPT queries, which directed me towards surveys, web-scraping results, and publicly published reports from the POS systems company toast. It was compiled and cleaned in Microsoft Excel and exported as CSV files.
 
